@@ -1,0 +1,16 @@
+dao\VentaDAO.class
+clases\Validate.class
+controlador\VentaControlador.class
+Modelo\Venta.class
+clases\ConexionDB.class
+dao\VentaDAOimpl.class
+controlador\Login.class
+Modelo\Cliente.class
+dao\ProductoDAOimpl.class
+controlador\ClienteControlador.class
+dao\ClienteDAO.class
+Modelo\Producto.class
+dao\ProductoDAO.class
+controlador\ProductoControlador.class
+controlador\Logout.class
+dao\ClienteDAOimpl.class
